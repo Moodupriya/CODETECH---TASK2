@@ -78,3 +78,19 @@ Buttons: Intuitive placement for buttons like “Buy Now,” “Add to Wishlist,
 Analyze the prototype further to identify additional details (animations, transitions, etc.).
 Build a project timeline with tasks like wireframe conversion, development, testing, and deployment.
 Start with low-fidelity implementation and refine into a functional high-fidelity app.
+
+![Screenshot_24-12-2024_21179_www figma com](https://github.com/user-attachments/assets/9e8d36ef-ccb0-42b9-8682-df0ea09e721d)
+![Screenshot_24-12-2024_21195_www figma com](https://github.com/user-attachments/assets/2acc59cf-f697-45eb-8e9a-44720821babc)
+
+![Screenshot_24-12-2024_211748_www figma com](https://github.com/user-attachments/assets/14327d54-b8c3-44a3-b683-47fee2b2a142)
+![Screenshot_24-12-2024_211842_www figma com](https://github.com/user-attachments/assets/2730b060-7890-4afa-9836-d69a7e987837)
+
+![Screenshot_24-12-2024_211954_www figma com](https://github.com/user-attachments/assets/b69300f1-d31e-4c91-b2b2-137f0f63f161)
+![Screenshot_24-12-2024_212032_www figma com](https://github.com/user-attachments/assets/16e45101-ac5b-4cd2-afc0-03fcea7944ca)
+![Screenshot_24-12-2024_21187_www figma com](https://github.com/user-attachments/assets/4dac5ead-7d59-4ceb-9563-b0815e42e1d6)
+![Screenshot_24-12-2024_211732_www figma com](https://github.com/user-attachments/assets/336315b1-3dca-493e-ad02-b150641a2ac5)
+![Screenshot_24-12-2024_211825_www figma com](https://github.com/user-attachments/assets/a51dcedf-25a9-454e-9e27-caf853f2ae88)
+![Screenshot_24-12-2024_211934_www figma com](https://github.com/user-attachments/assets/ad6c545f-a8b6-4a44-9486-37354b4ca567)
+![Screenshot_24-12-2024_212013_www figma com](https://github.com/user-attachments/assets/3387b72b-122e-4d07-98fb-43fde59f17f5)
+
+
